@@ -72,10 +72,10 @@ function App() {
           </div>
 
           <nav>
-            <a href="#">Home</a>
-            <a href="#">Events</a>
-            <a href="#">Team</a>
-            <a href="#">Join</a>
+            <a href="google.com">Home</a>
+            <a href="google.com">Events</a>
+            <a href="google.com">Team</a>
+            <a href="google.com">Join</a>
           </nav>
         </div>
       </header>
